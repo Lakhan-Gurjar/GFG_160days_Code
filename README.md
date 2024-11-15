@@ -5,4 +5,4 @@ It is a self-paced course which will help any student to practice DSA problems i
 
 ## This course is started on 15 November 2024.
 
-### Day-1 (15-11-24): Find the second largest in the array.
+### Day-1 (15-11-24): Find the second largest element in the array.
