@@ -9,3 +9,4 @@ It is a self-paced course which will help any student to practice DSA problems i
 ### Day-2 (16-11-24): Move all zeroes to the end of array. (11:45 PM)
 ### Day-3 (17-11-24): Reverse an array. (8:28 AM)
 ### Day-4 (18-11-24): Rotate an array to the left. (11:28 AM)
+### Day-5 (19-11-24): Next Permutation (9:14 AM)
